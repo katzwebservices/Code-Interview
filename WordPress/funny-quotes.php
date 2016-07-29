@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:         Example Funny Quotes Plugin
+ * Plugin Name:         Exammple Funny Quotes Plugin
  * Plugin URI:        	https://example.com
  * Description:       	Assume this is a WordPress plugin file. Improve the code as much as you possibly can. *Make sure to update the readme.txt with a detailed changelog*.
  * Version:          	1.0
