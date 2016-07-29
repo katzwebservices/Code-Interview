@@ -1,6 +1,6 @@
 # Make this better.
 
-This plugin was written very poorly, without using the WordPress standards.
+This plugin was written very poorly, without using the [WordPress coding standards](https://codex.wordpress.org/WordPress_Coding_Standards).
 
 ## 1. Fork this plugin
 
