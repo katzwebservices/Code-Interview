@@ -24,7 +24,7 @@ This plugin does lots of motivational quotes things badly. If you add quotes, it
 
 = 1.1 =
 
-* [ Changelog here ]
+* Funny Quotes is now more secure and Localization ready, you can translate it into your own language now.
 
 = 1.0 =
 
