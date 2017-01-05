@@ -1,9 +1,9 @@
 === Funny & Motivational Quotes ===
 Tags: funny, motivational, quotes
 Requires at least: 4.3
-Tested up to: 4.6
+Tested up to: 4.7
 Stable tag: trunk
-Contributors: katzwebservices
+Contributors: katzwebservices, fifthsegment
 License: GPL 3 or higher
 
 Code is poetry. So is poetry.
@@ -25,10 +25,14 @@ For Owl Carousel we can load funny quotes via wp_ajax which would load quotes us
 
 == Changelog ==
 
-= 1.1 =
+= 1.2.0 =
+
+* Added [funny_quotes] shortcode, and a setting page accessible via Settings -> Funny Quotes.
+
+= 1.1.0 =
 
 * Funny Quotes is now more secure and Localization ready, you can translate it into your own language now.
 
-= 1.0 =
+= 1.0.0 =
 
 * Launch
