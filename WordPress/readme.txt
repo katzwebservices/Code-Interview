@@ -19,6 +19,9 @@ This plugin does lots of motivational quotes things badly. If you add quotes, it
 3. Add quotes in the Quotes menu
 
 == Other Notes ==
+Answering the question:
+For Owl Carousel we can load funny quotes via wp_ajax which would load quotes using the current `funny_quotes_get_quotes` function. Since settings are saved as wp_options they can be retrieved anywhere in WordPress by a simple call to get_option.
+
 
 == Changelog ==
 

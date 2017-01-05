@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Funny Quotes\n"
-"POT-Creation-Date: 2017-01-04 22:50+0500\n"
-"PO-Revision-Date: 2017-01-04 22:54+0500\n"
+"POT-Creation-Date: 2017-01-05 10:04+0500\n"
+"PO-Revision-Date: 2017-01-05 10:06+0500\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: es\n"
@@ -12,22 +12,71 @@ msgstr ""
 "X-Generator: Poedit 1.8.7.1\n"
 "X-Poedit-Basepath: ..\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Poedit-KeywordsList: __\n"
+"X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: funny-quotes.php\n"
+"X-Poedit-SearchPath-1: settings.php\n"
 
-#: funny-quotes.php:80 funny-quotes.php:82
+#: funny-quotes.php:40 funny-quotes.php:44
+msgid "Quotes"
+msgstr "Citas"
+
+#: funny-quotes.php:41
+msgid "Quote"
+msgstr "Citar"
+
+#: funny-quotes.php:42
+msgid "Add new Quote"
+msgstr "Añadir nueva cotización"
+
+#: funny-quotes.php:43
+msgid "Edit Quote"
+msgstr "Editar cotización"
+
+#: funny-quotes.php:93 funny-quotes.php:95
 msgid "Funny & Motivational Quotes"
 msgstr "Citas divertidas y de motivación"
 
-#: funny-quotes.php:134
+#: funny-quotes.php:151
 msgid "Title:"
 msgstr "Título:"
 
-#: funny-quotes.php:139
+#: funny-quotes.php:156
 msgid "Show # of Quotes"
 msgstr "Número de presupuestos a mostrar"
 
-#: funny-quotes.php:171
+#: funny-quotes.php:232
 #, php-format
 msgid "Showing %d quotes:"
 msgstr "Mostrando %d cotizaciones:"
+
+#: settings.php:33 settings.php:34
+msgid "Funny Quotes"
+msgstr "Citas divertidas"
+
+#: settings.php:52
+msgid "Funny Quotes Settings"
+msgstr "Ajustes divertidos de las cotizaciones"
+
+#: settings.php:80
+msgid "Dashboard"
+msgstr "Tablero"
+
+#: settings.php:87
+msgid "When to show"
+msgstr "Cuándo mostrar"
+
+#: settings.php:119
+msgid "Enter your settings below:"
+msgstr "Ingrese su configuración a continuación:"
+
+#: settings.php:134
+msgid "Every page load"
+msgstr "Cada carga de página"
+
+#: settings.php:137
+msgid "One per hour"
+msgstr "Uno por hora"
+
+#: settings.php:140
+msgid "One per day"
+msgstr "Uno por día"
